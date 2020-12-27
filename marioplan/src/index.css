@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background: url(/marioplan/public/img/mario-bg.png); */
+  background-color: #95e8f3;
 }
 
 code {
